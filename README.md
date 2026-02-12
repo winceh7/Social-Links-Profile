@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot Solution](./images/assets/ScreenshotSocialLinks.png)
+![Screenshot Solution](./assets/images/ScreenshotSocialLinks.png)
 
 ### Links
 
