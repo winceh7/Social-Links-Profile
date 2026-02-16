@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/winceh7/Social-Links-Profile)
+- Live Site URL: [Social Links Profile](https://winceh7.github.io/Social-Links-Profile/)
 
 ## My process
 
